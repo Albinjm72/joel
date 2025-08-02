@@ -1,20 +1,17 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# ULTRASONIC DISTANCE MEASURING 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: joel biju mathew - MBC Kuttikanam 
 
 ### Project Description
-[2-3 lines about what your project does]
+a tool that wont give accurate distance measurement
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -22,39 +19,21 @@
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Arduino ide
+- Arduino uno
+- ultrasonic sensor
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]![WhatsApp Image 2025-08-02 at 07 35 12_6950d10f](https://github.com/user-attachments/assets/080301aa-3ea6-4d25-8b44-d0f9768a2e7e)
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]![WhatsApp Image 2025-08-02 at 07 35 13_314dcb2e](https://github.com/user-attachments/assets/59ae1917-80df-4e1f-8225-ee06c514a67d)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -87,10 +66,7 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
